@@ -2,7 +2,7 @@
 
 
 // Some change
-int main()
+int main();
 {
     printf("This is a test\n");
     return 0;
